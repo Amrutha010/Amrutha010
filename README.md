@@ -1,4 +1,4 @@
- <h1>Hi there </h1>
+ <h1 text align=center>Hi there 👋, I am Naga Durga Amrutha Karri</h1>
 
 
 - 🔭 I'm currently Working on Java
