@@ -5,4 +5,6 @@
 - 🌱 I’m currently learning Full Stack Web development at Masai school, Banglore.
 - 📫 How to reach me: @karrinagadurgaamrutha040@gmail.com
 - 😄 Pronouns: she/her
+- 👯 I’m looking to collaborate on developing Java applications.
+- 🤝 I’m looking to partner with someone to learn and grow together in my field.
 
