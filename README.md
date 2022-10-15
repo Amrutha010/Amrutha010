@@ -7,3 +7,11 @@
 - 😄 Pronouns: she/her
 - 👯 I’m looking to collaborate on developing Java applications.
 - 🤝 I’m looking to partner with someone to learn and grow together in my field.
+
+
+## 📊 My Github Stats
+
+<p align="left" style="margin-right:0px;padding-right:0px">
+<img src="https://github-readme-stats.vercel.app/api?username=Amrutha010&theme=algolia">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Amrutha010&theme=algolia" />
+</p>
