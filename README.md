@@ -2,11 +2,17 @@
  <h2 text align=center>Aspiring Java Backend Developer</h2>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amrutha010&label=Profile%20views&color=0e75b6&style=flat" alt="Amrutha010" /> </p>
 - 🔭 I'm currently Working on Java
+
 - 🌱 I’m currently learning Full Stack Web development at Masai school, Banglore.
+
 - 📫 How to reach me: @karrinagadurgaamrutha040@gmail.com
+
 - 😄 Pronouns: she/her
+
 - 👯 I’m looking to collaborate on developing Java applications.
+
 - 🤝 I’m looking to partner with someone to learn and grow together in my field.
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amrutha010&label=Profile%20views&color=0e75b6&style=flat" alt="sourav12061999" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
