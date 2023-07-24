@@ -20,8 +20,6 @@
 <a href="https://www.linkedin.com/in/amrutha-java-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amrutha-java-developer/" height="30" width="40" /></a>
 <a href="https://leetcode.com/karrinagadurgaamrutha040/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/karrinagadurgaamrutha040/" height="30" width="40" /></a>
 </p> -->
-
-
 <div align="left">
 <a href="https://www.linkedin.com/in/amrutha-java-developer/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
@@ -43,7 +41,3 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrutha010&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Amrutha010&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amrutha010" alt="Amrutha010" /></a> </p> 
-
-
-
-
