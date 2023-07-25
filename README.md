@@ -41,3 +41,5 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrutha010&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Amrutha010&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amrutha010" alt="Amrutha010" /></a> </p> 
+
+
