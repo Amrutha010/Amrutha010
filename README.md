@@ -10,6 +10,7 @@
 
 - 😄 Pronouns: she/her
 
+
 - 👯 I’m looking to collaborate on developing Java applications.
 
 - 🤝 I’m looking to partner with someone to learn and grow together in my field.
