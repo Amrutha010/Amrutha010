@@ -39,7 +39,6 @@
  <br/>
  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,sts,notion)]()
 
- 
 
 | ![Amrutha010's github stats](https://github-readme-stats.vercel.app/api?username=Amrutha010&show_icons=true&theme=tokyonight) | ![Amrutha010 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amrutha010&theme=tokyonight) |
 | --- | --- |
