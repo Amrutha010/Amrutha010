@@ -29,8 +29,6 @@
  <a href="https://amrutha010.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-008000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="mailto:mail.karrinagadurgaamrutha040@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-
-
 </div>  
  <h3 align="left">Languages and Tools I'm familiar with:</h3>
  
