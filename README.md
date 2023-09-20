@@ -3,7 +3,6 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amrutha010&label=Profile%20views&color=0e75b6&style=flat" alt="Amrutha010" /> </p>
 
 - 🔭 I'm currently Working on Java
-
   
 - 🌱 I’m currently working at Kalvium as Technical Mentor.
 
