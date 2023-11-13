@@ -11,8 +11,6 @@
 
 
 
-
-
 - 😄 Pronouns: she/her
 
 
