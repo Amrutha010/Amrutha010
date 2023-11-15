@@ -5,7 +5,6 @@
 - 🔭 I'm currently Working on Java
 
 
-
 - 📫 How to reach me: karrinagadurgaamrutha040@gmail.com
 
 
