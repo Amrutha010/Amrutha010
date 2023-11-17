@@ -15,6 +15,8 @@
 - 👯 I’m looking to collaborate on developing Java applications.
 
 - 🤝 I’m looking to partner with someone to learn and grow together in my field.
+
+ 
 -  Portfolio - https://amrutha010.github.io/
 
 <h3 align="left">Social handles:</h3>
